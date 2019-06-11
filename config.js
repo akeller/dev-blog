@@ -11,7 +11,7 @@ module.exports = {
   author: 'Amara Graham',
   githubUrl: 'https://github.com/akeller/dev-blog',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'amara.dev',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'MissAmaraKay',
