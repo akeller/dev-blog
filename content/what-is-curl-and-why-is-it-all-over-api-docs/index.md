@@ -95,7 +95,7 @@ Pay really close attention here, your API key is just a string value. DO NOT LEA
 
 The response is correct in that you are unauthorized because your API key probably doesn’t include a bracket on the front and the back.
 
-#### Why would I use cURL and not Postman? ARC? Or <insert favorite client>?
+#### Why would I use cURL and not Postman? ARC? Or insert favorite client?
 
 No one is telling you what you can and cannot use, but as referenced above, curl is fairly standard in its functionality and available across tons of platforms. There is no UI to get lost in for basic commands with authentication and you can see exactly what’s going on. But if you find a UI more comforting and familiar, by all means go for it.
 
