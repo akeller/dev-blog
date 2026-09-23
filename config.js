@@ -7,7 +7,7 @@ module.exports = {
   // It should complete the sentence: Written by Amara Graham ...
   shortBio: '',
   // a longer bio showing on the landing page of the blog
-  bio: `Millennial Tech Female || Developer Advocate at IBM || Previously at Intel. Opinions are my own.`,
+  bio: `Millennial Tech Female || Opinions are my own.`,
   author: 'Amara Graham',
   githubUrl: 'https://github.com/akeller/dev-blog',
   // replace this by the url where your website will be published
@@ -17,8 +17,8 @@ module.exports = {
     twitter: 'MissAmaraKay',
     medium: '@MissAmaraKay',
     facebook: '',
-    github: '',
-    linkedin: '',
+    github: 'akeller',
+    linkedin: 'amara-graham',
     instagram: '',
   },
 }
